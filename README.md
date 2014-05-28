@@ -23,4 +23,3 @@ Don't forget to activate the C++11 option when you compile the class with the fl
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-    Come on, don't tell me you read that.
